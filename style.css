@@ -1,0 +1,48 @@
+/* displays all blocks in one row */
+.colors{
+    display: flex;
+    padding: 150px;
+}
+
+
+#blue {
+    background-color: blue;
+    list-style-type: none;
+    width: 200px;
+    height: 200px;
+}
+
+#red {
+    background-color: red;
+    list-style-type: none;
+    width: 200px;
+    height: 200px;
+}
+
+#yellow {
+    background-color: yellow;
+    list-style-type: none;
+    width: 200px;
+    height: 200px;
+}
+
+#yellow {
+    background-color: yellow;
+    list-style-type: none;
+    width: 200px;
+    height: 200px;
+}
+
+#green {
+    background-color: green;
+    list-style-type: none;
+    width: 200px;
+    height: 200px;
+}
+
+#orange {
+    background-color: orange;
+    list-style-type: none;
+    width: 200px;
+    height: 200px;
+}
